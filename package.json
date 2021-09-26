@@ -4,7 +4,8 @@
   "license": "CC-BY-SA-4.0",
   "description": "Exercises for the module systems lessons at CYF",
   "scripts": {
-    "cowsaying": "node exercise-b.js"
+    "cowsaying": "node exercise-b.js",
+    "ascii": "node exercise-c.js"
   },
   "repository": {
     "type": "git",
