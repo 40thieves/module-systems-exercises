@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "license": "CC-BY-SA-4.0",
   "description": "Exercises for the module systems lessons at CYF",
+  "scripts": {
+    "cowsaying": "node exercise-b.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CodeYourFuture/module-systems-exercises.git"
@@ -10,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/CodeYourFuture/module-systems-exercises/issues"
   },
-  "homepage": "https://github.com/CodeYourFuture/module-systems-exercises#readme"
+  "homepage": "https://github.com/CodeYourFuture/module-systems-exercises#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
