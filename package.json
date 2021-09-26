@@ -1,0 +1,14 @@
+{
+  "name": "module-systems-exercises",
+  "version": "1.0.0",
+  "license": "CC-BY-SA-4.0",
+  "description": "Exercises for the module systems lessons at CYF",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeYourFuture/module-systems-exercises.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeYourFuture/module-systems-exercises/issues"
+  },
+  "homepage": "https://github.com/CodeYourFuture/module-systems-exercises#readme"
+}
